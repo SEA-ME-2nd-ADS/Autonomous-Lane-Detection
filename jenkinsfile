@@ -1,0 +1,41 @@
+pipeline {
+    agent any
+    stages {
+        stage('Install ML Dependencies') {
+            when {
+                changeset "ml/**"
+            }
+            steps {
+                sh 'pip3 install -r ml/requirements.txt'
+            }
+        }
+        stage('Train Model') {
+            when {
+                changeset "ml/**"
+            }
+            steps {
+                sh 'python3 ml/src/train.py --config ml/config/training_config.yaml'
+            }
+        }
+        stage('Setup Simulation Environment') {
+            when {
+                changeset "simulator/**"
+            }
+            steps {
+                sh '''
+                export CARLA_ROOT=/opt/carla-simulator
+                export PYTHONPATH=$PYTHONPATH:$CARLA_ROOT/PythonAPI/carla/dist/carla-0.9.11-py3.7-linux-x86_64.egg
+                export PYTHONPATH=$PYTHONPATH:$CARLA_ROOT/PythonAPI/carla
+                '''
+            }
+        }
+        stage('Run Simulation') {
+            when {
+                changeset "simulator/**"
+            }
+            steps {
+                sh 'python3 simulator/src/main.py --config simulator/config/simulator_config.yaml'
+            }
+        }
+    }
+}
