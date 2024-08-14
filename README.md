@@ -14,13 +14,11 @@ ADS first project
 
 ## Contributors
 
-## Contributors
-
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/sejoonkimmm">
-        <img src="https://avatars.githubusercontent.com/u/sejoonkimmm?v=4" width="100px;" alt="Sejoon Kim"/>
+        <img src="https://github.com/sejoonkimmm.png" width="100px;" alt="Sejoon Kim"/>
         <br />
         <sub><b>Sejoon Kim</b></sub>
       </a>
