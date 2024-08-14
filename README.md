@@ -5,4 +5,4 @@ ADS first project
 [Here](https://github.com/SEA-ME/ADS_Autonomous-Lane-Detection)
 
 
-readme test
+[How to integrate Github repository with Jenkins](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-integrate-Githubrepository-with-Jenkins)
