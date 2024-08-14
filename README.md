@@ -1,10 +1,10 @@
 # Autonomous-Lane-Detection
 ADS first project 
 
-## Assignment Requirements 📖
+## 📖 Assignment Requirements
 [Here](https://github.com/SEA-ME/ADS_Autonomous-Lane-Detection)
 
-## Github Wiki and Documentation 📚
+## 📚 Github Wiki and Documentation
 [How to integrate Github repository with Jenkins](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-integrate-Githubrepository-with-Jenkins)
 
 [How to set a static address in Jenkins to receive GitHub webhooks](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-set-a-static-address-in-Jenkins-to-receive-GitHub-webhooks)
@@ -12,7 +12,7 @@ ADS first project
 
 [How to update Python by 3.12.1 version?](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-update-python-by-3.12.1-version%3F)
 
-## Stack 🛠️
+## 🛠 Stack
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ ADS first project
   <tr>
     <td align="center" width="140px">
       <a href="https://carla.org/">
-        <img src="https://raw.githubusercontent.com/carla-simulator/carla/master/Docs/img/carla-logo.png" width="48" height="48" alt="CARLA" />
+        <img src="assets/carla_simulator_logo.jpeg" width="48" height="48" alt="CARLA" />
       </a>
       <br />CARLA
     </td>
@@ -104,6 +104,7 @@ ADS first project
     </td>
   </tr>
 </table>
+
 
 
 ## Contributors 
