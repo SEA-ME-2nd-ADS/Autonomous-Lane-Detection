@@ -11,3 +11,21 @@ ADS first project
 
 
 [How to update Python by 3.12.1 version?](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-update-python-by-3.12.1-version%3F)
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sejoonkimmm">
+        <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="100px;" alt="Sejoon Kim"/>
+        <br />
+        <sub><b>Sejoon Kim</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/sejoonkimmm"><img src="https://img.shields.io/badge/GitHub-sejoonkimmm-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>MLOps, Product Manager</sub>
+    </td>
+  </tr>
+</table>
