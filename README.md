@@ -8,3 +8,6 @@ ADS first project
 [How to integrate Github repository with Jenkins](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-integrate-Githubrepository-with-Jenkins)
 
 [How to set a static address in Jenkins to receive GitHub webhooks](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-set-a-static-address-in-Jenkins-to-receive-GitHub-webhooks)
+
+
+[How to update Python by 3.12.1 version?](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-update-python-by-3.12.1-version%3F)
