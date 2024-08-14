@@ -120,9 +120,11 @@ ADS first project
       <br />
       <a href="https://github.com/sejoonkimmm"><img src="https://img.shields.io/badge/GitHub-sejoonkimmm-blue?logo=github" alt="GitHub Badge" /></a>
       <br />
-      <a href="https://www.linkedin.com/in/sejokimde/"><img src="https://img.shields.io/badge/LinkedIn-Sejoon%20Kim-blue?logo=linkedin" alt="LinkedIn Badge" /></a>
-      <br />
       <sub>MLOps, Product Manager</sub>
+      <br />
+      <sub>Project Flow & Architecture Designer</sub>
+      <br />
+      <sub>GitHub Flow Manager</sub>
     </td>
   </tr>
 </table>
