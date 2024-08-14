@@ -61,16 +61,22 @@ ADS first project
   </tr>
   <tr>
     <td align="center" width="140px">
-      <a href="https://gazebosim.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gazebo_logo.svg/1280px-Gazebo_logo.svg.png" width="48" height="48" alt="Gazebo" />
-      </a>
-      <br />Gazebo
-    </td>
-    <td align="center" width="140px">
       <a href="https://carla.org/">
-        <img src="https://carla.org/imgs/logo.svg" width="48" height="48" alt="CARLA" />
+        <img src="https://raw.githubusercontent.com/carla-simulator/carla/master/Docs/img/carla-logo.png" width="48" height="48" alt="CARLA" />
       </a>
       <br />CARLA
+    </td>
+    <td align="center" width="140px">
+      <a href="https://grafana.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br />Grafana
+    </td>
+    <td align="center" width="140px">
+      <a href="https://prometheus.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br />Prometheus
     </td>
     <td align="center" width="140px">
       <a href="https://www.mathworks.com/products/matlab.html">
@@ -98,6 +104,7 @@ ADS first project
     </td>
   </tr>
 </table>
+
 
 ## Contributors 
 
