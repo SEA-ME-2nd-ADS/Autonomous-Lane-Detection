@@ -20,7 +20,7 @@ ADS first project
   <tr>
     <td align="center">
       <a href="https://github.com/sejoonkimmm">
-        <img src="https://avatars.githubusercontent.com/u/60409137?v=4" width="100px;" alt="Sejoon Kim"/>
+        <img src="https://avatars.githubusercontent.com/u/sejoonkimmm?v=4" width="100px;" alt="Sejoon Kim"/>
         <br />
         <sub><b>Sejoon Kim</b></sub>
       </a>
