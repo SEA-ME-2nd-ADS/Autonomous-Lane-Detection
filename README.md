@@ -12,6 +12,8 @@ ADS first project
 
 [How to update Python by 3.12.1 version?](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/How-to-update-python-by-3.12.1-version%3F)
 
+[GitHub Flow with Agile Kanban Board](https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection/wiki/GitHub-Flow-with-Agile-Kanban-Board)
+
 ## 🛠 Stack
 
 <table>
