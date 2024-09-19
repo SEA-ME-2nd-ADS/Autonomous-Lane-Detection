@@ -98,7 +98,7 @@ ADS first project
       <br />
       <sub>MLOps, Product Manager</sub>
       <br />
-      <sub>Project Flow & Architecture Designer</sub>
+      <sub>Architecture Designer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/nimo-my">
