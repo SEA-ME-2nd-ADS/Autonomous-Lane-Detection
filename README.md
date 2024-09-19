@@ -23,12 +23,6 @@ ADS first project
       <br />Python
     </td>
     <td align="center" width="140px">
-      <a href="https://www.tensorflow.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br />TensorFlow
-    </td>
-    <td align="center" width="140px">
       <a href="https://pytorch.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
       </a>
@@ -39,12 +33,6 @@ ADS first project
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
       </a>
       <br />OpenCV
-    </td>
-    <td align="center" width="140px">
-      <a href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br />Docker
     </td>
     <td align="center" width="140px">
       <a href="https://www.jenkins.io/">
@@ -79,18 +67,6 @@ ADS first project
       <br />Prometheus
     </td>
     <td align="center" width="140px">
-      <a href="https://www.mathworks.com/products/matlab.html">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="MATLAB" />
-      </a>
-      <br />MATLAB
-    </td>
-    <td align="center" width="140px">
-      <a href="https://pypi.org/project/numpy/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      </a>
-      <br />NumPy
-    </td>
-    <td align="center" width="140px">
       <a href="https://pandas.pydata.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       </a>
@@ -123,8 +99,45 @@ ADS first project
       <sub>MLOps, Product Manager</sub>
       <br />
       <sub>Project Flow & Architecture Designer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nimo-my">
+        <img src="https://github.com/nimo-my.png" width="150px;" alt="Jisoo Kim"/>
+        <br />
+        <sub><b>Jisoo Kim</b></sub>
+      </a>
       <br />
-      <sub>GitHub Flow Manager</sub>
+      <a href="https://github.com/nimo-my"><img src="https://img.shields.io/badge/GitHub-nimo_my-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>ML Developer</sub>
+      <br />
+      <sub>Simulator Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JunSpring">
+        <img src="https://github.com/JunSpring.png" width="150px;" alt="Junbeom Jung"/>
+        <br />
+        <sub><b>Junbeom Jung</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/JunSpring"><img src="https://img.shields.io/badge/GitHub-JunSpring-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>ML Developer</sub>
+      <br />
+      <sub>Hardware Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jo49973477">
+        <img src="https://github.com/jo49973477.png" width="150px;" alt="Yeongyoo Jo"/>
+        <br />
+        <sub><b>Yeongyoo Jo</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/jo49973477"><img src="https://img.shields.io/badge/GitHub-jo49973477-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>ML Developer</sub>
+      <br />
+      <sub>Simulator Developer</sub>
     </td>
   </tr>
 </table>
